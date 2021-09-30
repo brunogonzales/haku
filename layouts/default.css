@@ -1,0 +1,4 @@
+@font-face {
+  font-family: "Blonde";
+  src: local("Blonde"), url(~assets/Blonde.ttf) format("truetype");
+}

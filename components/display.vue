@@ -1,10 +1,10 @@
 <template>
-  <div class="display h-80">
-    <h2 class="text-white pt-40 text-center font-serif text-4xl leading-9">
+  <div class="display h-80 pb-8">
+    <h2 class="text-white pt-40 text-center font-sans text-4xl leading-9">
       Sé sostenible
     </h2>
     <div class="w-72 mx-auto text-center leading-4">
-      <p class="text-white space-y">
+      <p class="text-white font-mono">
         Ropa de segunda mano, diseños propios, artesanías, antigüedades y todo
         lo que te entre en el armario
       </p>

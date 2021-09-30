@@ -7,8 +7,9 @@ export default {
       xl: "1440px"
     },
     fontFamily: {
-      sans: ["Montserrat Alternates", "sans-serif"],
-      serif: ["Titan One", "serif"]
+      mono: ["Montserrat Alternates", "sans-serif"],
+      sans: ["Titan One", "serif"],
+      serif: ["Blonde"]
     },
     extend: {
       spacing: {
